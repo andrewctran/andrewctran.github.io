@@ -1,0 +1,90 @@
+//
+// Module: header
+// ==============
+//
+// High-level styles for the header
+//
+
+
+.page__hero {
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  position: absolute;
+  margin-top: -$baseline;
+  margin-left: -$baseline;
+
+  img {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   height: 100%;
+   width: 100%;
+  
+   object-fit: cover;
+   transform: translateX(-50%) translateY(-50%);
+  }
+}
+
+.site__header {
+  z-index: 1000;
+  margin-bottom: $baseline*2;
+
+  .has-hero & {
+    position: absolute;
+    left: $baseline;
+    right: $baseline;
+  }
+}
+
+.site__title {
+  font-weight: 400;
+  text-decoration: none;
+
+  &:hover {
+    color: inherit;
+  }
+
+  span {
+    margin-bottom: 0;
+  }
+}
+
+.site__nav {
+  border-top: 1px solid $lighter-gray;
+
+  .has-hero & {
+    border-top-color: rgba(0,0,0,.2);
+  }
+
+  ul {
+    overflow: visible;
+  }
+
+  li {
+    margin-top: -1px;
+
+    + li {
+      margin-left: 1rem;
+    }
+  }
+
+  a {
+    @extend %spit--v;
+
+    text-decoration: none;
+
+    color: $light-gray;
+    border-top: 1px solid transparent;
+
+    &.active {
+      color: $highlight;
+      border-top-color: $highlight;
+    }
+
+    &:hover {
+      color: $highlight;
+    }
+  }
+}
+

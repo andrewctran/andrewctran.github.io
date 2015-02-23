@@ -1,0 +1,147 @@
+//
+// Partial: typography
+// ===================
+//
+// Type styles
+//
+
+
+h1,
+.alpha {
+  font-weight: 400;
+  font-size: 2.5rem;
+  line-height: 1;
+
+  @media (max-width: 500px) {
+    font-size: 2rem;
+  }
+}
+
+h2,
+.beta {
+  font-family: $font-sans;
+  font-size: 1.5rem;
+  font-weight: 700;
+
+  * + & {
+    padding-top: $baseline;
+  }
+}
+
+h3,
+.gamma {
+  margin-bottom: $baseline/2;
+
+  font-family: $font-sans;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+h4,
+.delta {
+  margin-bottom: $baseline/2;
+
+  font-family: $font-sans;
+  font-weight: 400;
+}
+
+%small {
+  font-size: .8em;
+}
+
+small,
+.small {
+  @extend %small;
+}
+
+.mega {
+  font-size: 2.5rem;
+  line-height: $baseline-unitless;
+  font-weight: 200;
+}
+
+.sans {
+  font-family: $font-sans;
+}
+
+
+%meta {
+  color: $light-gray;
+}
+
+.meta {
+  @extend %meta;
+}
+
+
+%link {
+  color: inherit;
+  cursor: pointer;
+
+  &:hover {
+    color: $highlight;
+  }
+}
+
+a, a:visited {
+  @extend %link;
+}
+
+%figcaption {
+  @extend %small;
+  font-family: $font-sans;
+
+  color: $light-gray;
+}
+
+figcaption {
+  @extend %figcaption;
+}
+
+
+hr {
+  @extend %hr;
+}
+
+%hr {
+  border: 0;
+  border-bottom: 2px solid $lighter-gray;
+  width: 6rem;
+  padding-top: $baseline;
+  margin: {
+    top: -2px;
+    right: auto;
+    bottom: $baseline*2;
+    left: auto;
+  }
+}
+
+
+mark {
+  background-color: transparent;
+  color: $highlight;
+}
+
+blockquote {
+  padding: 0 $baseline;
+
+  color: $light-gray;
+  border-left: 2px solid $highlight;
+}
+
+.promo {
+  text-align: center;
+}
+
+.caps {
+  font-feature-settings: "c2sc" 1, "smcp" 1;
+}
+
+sup, sub {
+   vertical-align: baseline;
+   top: -0.4em;
+}
+
+sub {
+  top: 0.4em;
+}

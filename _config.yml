@@ -1,0 +1,39 @@
+name: "Andrew Tran"
+description: "Andrew Tran's Portfolio"
+url: https://localhost:4000
+
+markdown: kramdown
+
+color: "#cb5c42"
+
+highlighter: true
+
+permalink: pretty
+
+assets:
+  js_compressor: uglifier
+  css_compressor: sass
+  cache: true
+  sources:
+    - _assets/scss
+    - _assets/js
+  cachebust: hard
+
+picture:
+  source: _uploads
+  output: uploads
+  markup: "picture"
+  presets:
+    default:
+      ppi: [1, 2]
+      source_default:
+        width: "320"
+      source_320:
+        width: "320"
+        media: "(min-width: 320px)"
+      source_600:
+        width: "620"
+        media: "(min-width: 620px)"
+      source_960:
+        width: "900"
+        media: "(min-width: 900px)"

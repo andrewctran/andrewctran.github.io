@@ -1,0 +1,33 @@
+//
+// Partial: variables
+// ==================
+//
+// Global variables of all kinds
+//
+
+
+// Group: Unit Sizes
+$base-font-size: (18/16)*100%;
+$baseline-unitless: 28/(16*($base-font-size/100%));
+$baseline: $baseline-unitless * 1rem;
+
+
+// Group: Fonts
+$font-name-a: "franklin-gothic-urw";
+$font-name-b: "leitura-news";
+
+$font-serif: $font-name-b, Georgia, serif;
+
+$font-sans: $font-name-a, Geneva, Verdana, san-serif;
+
+$font-code: 'Source Code Pro', Monaco, monospace;
+
+
+// Group: Colors
+$background: #fbf7f0;
+$highlight: #cb5c42;
+
+$dark-gray: #3d464d;
+$light-gray: desaturate(#667480, 10%);
+$lighter-gray: #d0d2d4;
+

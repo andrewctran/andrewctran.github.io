@@ -1,0 +1,42 @@
+//
+// Partial: images
+// ===============
+//
+// Sprite and image helpers should go here
+//
+
+figure img,
+picture img {
+  display: block;
+  width: 100%;
+  margin-bottom: $baseline/2;
+}
+
+.alignleft {
+  @media (min-width: 600px) {
+    float: left;
+    width: 50%;
+    margin-left: -25%;
+    margin-right: $gutter-width;
+  }
+}
+
+.alignright {
+  @media (min-width: 600px) {
+    float: right;
+    width: 50%;
+    margin-right: -25%;
+    margin-left: $gutter-width;
+  }
+}
+
+.imgbleed {
+  @media (min-width: 600px) {
+    width: 152%;
+    margin-left: -26%;
+  }
+}
+
+figcaption :last-child {
+  margin-bottom: 0;
+}
