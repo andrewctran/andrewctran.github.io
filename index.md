@@ -11,4 +11,4 @@ Through my work, I'd like to help stitch the social fabric one smile at a time a
 
 Other things I enjoy include leather crafting, furniture making, cabin building, latte art, and traveling.
 
-I am currently a software engineer at [Nextdoor](http://nextdoor.com). Feel free to take a gander at [my CV](./cv.pdf) or follow me on [Twitter](http://twitter.com/andrewctran).
+I am currently a software engineer at [Nextdoor](http://nextdoor.com). Feel free to take a gander at [my CV](./cv.pdf), follow me on [Twitter](http://twitter.com/andrewctran), or [see what I'm up to](http://gyrosco.pe/andrewctran).
