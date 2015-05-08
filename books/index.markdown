@@ -22,6 +22,10 @@ in-nav: true
 
 ### [Art and the Acceleration of Gravity](http://www.uhpress.hawaii.edu/p-9107-9780988692800.aspx)
 
+### [A Little History of the World](http://www.amazon.com/Little-History-World-E-Gombrich/dp/030014332X)
+
+### [Tower of Babylon](http://gws.soonlabel.com/misc/Ted%20Chiang%20-%20Tower%20Of%20Babylon.pdf)
+
 ### [Why We Make Things and Why It Matters: The Education of a Craftsman](http://www.amazon.com/gp/product/1567925111/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1567925111&linkCode=as2&tag=andtra-20&linkId=XSMOL3ALSE6RV2J5)
 
 ### [Making It: Manufacturing Techniques for Product Design](http://www.amazon.com/Making-Manufacturing-Techniques-Product-Design/dp/1856697495/ref=sr_1_1?ie=UTF8&qid=1429226873&sr=8-1&keywords=making+it+manufacturing)
