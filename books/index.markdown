@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Books
+title: Bookshelf
 in-nav: true
 ---
 

@@ -1,6 +1,7 @@
 name: "Andrew Tran"
 description: "Andrew Tran's Portfolio"
-url: https://localhost:4000
+url: https://drewtran.com   # with the https protocol
+enforce_ssl: drewtran.com   # without any protocol
 
 markdown: kramdown
 
