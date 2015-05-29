@@ -4,7 +4,7 @@ title: Portfolio
 in-nav: true
 ---
 
-I’m currently working on iOS and infrastructure at [Nextdoor](http://nextdoor.com). My work outside of Nextdoor is what you see here; side projects, open source contributions, and personal itch-scratchers.
+I’m currently working on search and Android at [Nextdoor](http://nextdoor.com). My work outside of Nextdoor is what you see here; side projects, open source contributions, and personal itch-scratchers.
 
 * * *
 
