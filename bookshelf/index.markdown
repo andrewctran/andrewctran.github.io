@@ -26,6 +26,12 @@ in-nav: true
 
 ### [Tower of Babylon](http://gws.soonlabel.com/misc/Ted%20Chiang%20-%20Tower%20Of%20Babylon.pdf)
 
+### [Romance of the Three Kingdoms](http://www.amazon.com/Romance-Three-Kingdoms-Vol-1/dp/0804834679)
+
+### [Invisible Cities](http://www.amazon.com/Invisible-Cities-Italo-Calvino/dp/0156453800)
+
+### [A Tale For the Time Being](http://www.amazon.com/Tale-Time-Being-Novel/dp/0143124870)
+
 ### [Why We Make Things and Why It Matters: The Education of a Craftsman](http://www.amazon.com/gp/product/1567925111/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1567925111&linkCode=as2&tag=andtra-20&linkId=XSMOL3ALSE6RV2J5)
 
 ### [Making It: Manufacturing Techniques for Product Design](http://www.amazon.com/Making-Manufacturing-Techniques-Product-Design/dp/1856697495/ref=sr_1_1?ie=UTF8&qid=1429226873&sr=8-1&keywords=making+it+manufacturing)
