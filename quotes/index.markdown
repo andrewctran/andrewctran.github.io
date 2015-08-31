@@ -10,7 +10,7 @@ These are the things I’ve heard and read that help me work, live, and think. T
 
 “You can't really say what is beautiful about a place, but the image of the place will remain vividly with you.”—<span class="caps">Tadao Ando</span>
 
-“Megutama may be a little ship floating in the seven seas of the world. What we carry on this ship is just the pure drive to eat. And when there is a sign of good food calling from the horizons, we set sail towards our destination, wherever that may be. Since our little ship does not pledge allegiance to any country, we can bond with anyone, anywhere. So just say the password, “Let’s eat good food and rejuvenate our souls!”—<span class="caps"[>Megutama](http://megutama.com/en/what-is-megutama/)</span>
+“Megutama may be a little ship floating in the seven seas of the world. What we carry on this ship is just the pure drive to eat. And when there is a sign of good food calling from the horizons, we set sail towards our destination, wherever that may be. Since our little ship does not pledge allegiance to any country, we can bond with anyone, anywhere. So just say the password, “Let’s eat good food and rejuvenate our souls!”—<span class="caps">[Megutama](http://megutama.com/en/what-is-megutama/)</span>
 
 “Shut up and look.”—<span class="caps">Edward Tufte</span>
 
