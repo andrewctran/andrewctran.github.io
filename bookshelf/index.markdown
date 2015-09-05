@@ -24,7 +24,7 @@ in-nav: true
 
 ### [A Little History of the World](http://www.amazon.com/Little-History-World-E-Gombrich/dp/030014332X)
 
-## [Norwegian Wood](http://www.nytimes.com/2000/09/24/books/rubber-souls.html)
+### [Norwegian Wood](http://www.nytimes.com/2000/09/24/books/rubber-souls.html)
 
 ### [Tower of Babylon](http://gws.soonlabel.com/misc/Ted%20Chiang%20-%20Tower%20Of%20Babylon.pdf)
 
