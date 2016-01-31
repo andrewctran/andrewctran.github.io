@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-{% picture "Photo courtesy of [Connie Siu](http://conniesiu.me)" 2014/08/workshop.jpg class="imgbleed" %}
+{% picture "Seltjarnarnes, Iceland, January 2016" 2016/01/seltjarnarnes.jpg class="imgbleed" %}
 
 I build [products](/portfolio), often working with people who think about design, data, and interactions.
 
