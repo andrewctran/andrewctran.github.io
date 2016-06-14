@@ -16,4 +16,4 @@ These are the things I’ve heard and read that help me work, live, and think. T
 
 “The unbuilt is the fantasy that underlies everything.”—<span class="caps">Rem Koolhaas</span>
 
-"He and I suddenly saw the whole country like an oyster for us to open; and the pearl was there, the pearl was there."-<span class="caps">Jack Kerouac</span>
+"He and I suddenly saw the whole country like an oyster for us to open; and the pearl was there, the pearl was there."—<span class="caps">Jack Kerouac</span>
