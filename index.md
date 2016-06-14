@@ -5,10 +5,12 @@ title: About
 
 {% picture "Seltjarnarnes, Iceland, January 2016" 2016/01/seltjarnarnes.jpg class="imgbleed" %}
 
-I build [products](/portfolio), often working with people who think about design, data, and interactions.
+My core research interest is modern Korean culture, which is the less than straightfoward conclusion that I arrived at through a wayward undergraduate degree in [computer science](https://drewtran.com/cabinporn) and a not-quite-in-the-nick-of-time flurry of condensed and rather ecletic training in literary, ethnic, film, and area studies. My approach to all texts and events is informed by the theoretically ambivalent, confusing, and indeed self-contradictory notion of nationality as it straddles the uneasy boundary between a universalist rhetoric of inclusion on the one hand, and actual, lived experiences of negotiation and intolerance on the other. As I’ve chosen to narrate it despite my great anxiety, my itinerant undergraduate experience was a confused attempt to mine for new perspectives on the worldwide experience of national becoming. 
 
-Through my work, I'd like to help stitch the social fabric one smile at a time and help shape the social and market forces that support people with great and enduring ideas.
+I'm a card-carrying member of the Star Alliance paying my dues on the latest error fare out of EWR.
 
-Other things I enjoy include travel tech, leather crafting, furniture making, cabin building, cold brews, and ramen.
+Other things I love include: naengmyeon 냉면, TVB dramas, my Dutch oven, and $2 chili dogs at [Triumph](http://www.triumphbrewing.com/princeton/).
 
-I am currently a software engineer at [Nextdoor](http://nextdoor.com). Feel free to take a gander at [my CV](./cv.pdf), follow me on [Twitter](http://twitter.com/andrewctran), or [see what I'm up to](http://gyrosco.pe/andrewctran).
+I'm always on social media @andrewctran. Let's grab coffee and talk about what that 'c' stands for.
+
+Download my resume [here](./resume.pdf).

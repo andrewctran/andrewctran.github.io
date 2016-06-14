@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Film Thoughts: Hou Hsiao-hsien's *Café Lumière*
+title: Hou Hsiao-hsien's Understatement
 ---
 
 In *Café Lumière*, Hou Hsiao-hsien crafts an étude suggested by the themes and methods of Ozu Yasujiro, as if meditating on the question of whether or not one could breathe life into Ozu's particularities of film-making in a world that has left Ozu's universe of Japanese, post-war, middle-class domesticity behind. *Café Lumière* completely decenters our notion of film as a space for observation of the human and instead delivers us a piece where everyday noise becomes central to the narrative (or lack thereof)—we are tasked then not with observation of the human but human observation. 
