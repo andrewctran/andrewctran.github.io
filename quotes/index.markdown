@@ -14,14 +14,6 @@ These are the things I’ve heard and read that help me work, live, and think. T
 
 “Shut up and look.”—<span class="caps">Edward Tufte</span>
 
-“Dedication to quality, community, and originality - without exception.”—<span class="caps">Zach Klein</span>
-
 “The unbuilt is the fantasy that underlies everything.”—<span class="caps">Rem Koolhaas</span>
 
-“I am made of earth, and my song made of words.”—<span class="caps">Pablo Neruda</span>
-
-“I get up. I walk. I fall down. Meanwhile, I keep dancing.”—<span class="caps">Daniel Hillel</span>
-
-“The Details are not the Details. They make the design.”—<span class="caps">Charles Eames</span>
-
-“In Zen archery, for example, you forget about the goal – hitting the bull’s eye – and instead focus on all the individual moments involved in shooting an arrow. If you’ve perfected all the elements, you can’t help but hit the center of the target. The same philosophy is true for climbing mountains. If you focus on the process of climbing, you’ll end up on the summit.”—<span class="caps">Yvon Chouinard</span>
+"He and I suddenly saw the whole country like an oyster for us to open; and the pearl was there, the pearl was there."-<span class="caps">Jack Kerouac</span>

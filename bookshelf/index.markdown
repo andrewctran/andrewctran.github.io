@@ -16,6 +16,8 @@ in-nav: true
 
 ### [White](http://www.amazon.com/White-Kenya-Hara/dp/3037781831/ref=pd_sim_b_1?ie=UTF8&refRID=187TDVRMCZ1V3H7MEW23)
 
+### [Super Normal: Sensations of the Ordinary](https://www.amazon.com/Super-Normal-Sensations-Naoto-Fukasawa/dp/3037781068)
+
 ## Life & Writing
 
 ### [Your Republic is Calling You](http://www.amazon.com/Your-Republic-Calling-You-Young-ha/dp/0151015457/ref=sr_1_1?s=books&ie=UTF8&qid=1429227211&sr=1-1&keywords=your+republic+is+calling+you)
@@ -33,3 +35,11 @@ in-nav: true
 ### [Invisible Cities](http://www.amazon.com/Invisible-Cities-Italo-Calvino/dp/0156453800)
 
 ### [A Tale For the Time Being](http://www.amazon.com/Tale-Time-Being-Novel/dp/0143124870)
+
+### [The Book of Basketball: The NBA According to The Sports Guy](https://www.amazon.com/Book-Basketball-NBA-According-Sports/dp/0345520106)
+
+### [Imagined Communities](https://www.amazon.com/Imagined-Communities-Reflections-Nationalism-Revised/dp/1844670864)
+
+### [Strangers in the Ethnic Homeland](https://www.amazon.com/Strangers-Ethnic-Homeland-Takeyuki-Tsuda/dp/0231128398)
+
+### [Of Walking in Ice](https://www.amazon.com/Werner-Herzog-Walking-November-December/dp/0979612101)
