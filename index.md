@@ -12,5 +12,3 @@ I'm a card-carrying member of the Star Alliance paying my dues on the latest err
 Other things I love include: naengmyeon 냉면, TVB dramas, my Dutch oven, and $2 chili dogs at [Triumph](http://www.triumphbrewing.com/princeton/).
 
 I'm always on social media @andrewctran. Let's grab coffee and talk about what that 'c' stands for.
-
-Download my resume [here](./resume.pdf).
