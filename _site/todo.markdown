@@ -1,3 +1,3 @@
 ### To-do
-- styleguide
-- 404 page
+- Style guide
+- 404
