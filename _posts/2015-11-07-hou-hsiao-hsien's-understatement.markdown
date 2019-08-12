@@ -1,10 +1,0 @@
----
-layout: post
-title: Hou Hsiao-hsien's Understatement
----
-
-In *Café Lumière*, Hou Hsiao-hsien crafts an étude suggested by the themes and methods of Ozu Yasujiro, as if meditating on the question of whether or not one could breathe life into Ozu's particularities of film-making in a world that has left Ozu's universe of Japanese, post-war, middle-class domesticity behind. *Café Lumière* completely decenters our notion of film as a space for observation of the human and instead delivers us a piece where everyday noise becomes central to the narrative (or lack thereof)—we are tasked then not with observation of the human but human observation. 
-
-{% picture 2015/11/cafe-lumiere.jpg %} 
-
-The film’s silence makes uncomfortably obvious the unresolved possibilities of each scene, but it seems as though this vagueness is not to prompt us to attempt the (in this case, impossible) task of filling in narrative gaps but only to leave space and direct focus on the incredibly dense composition of individual shots. The density of each shot is not uncomfortable, but undeniably overwhelming—even exhausting-- despite almost a complete lack of camera movement. Even as characters converse, their apparent lack of eye contact with each other refuses us the comfort of denying background and foreground cues to focus only on conversation and instead forces us to process the overload of information and activity around the characters (cars, dogs, trains, etc). What we observe in this world is a realm of interiority completely detached from external, social matter. Perhaps ironic that while Yoko says the same of her biological mother, her own monastic lifestyle is a gestural refusal of a world that offers no meaning, rejecting social concern and the relationships that are expected of her. Her existence, however, is less a rejection but more a transcendence of her world, taking on the quality of an unsettled post-modernity in which human motivation and action are nearly illegible.

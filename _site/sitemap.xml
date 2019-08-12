@@ -1,53 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://drewtran.com/2015/11/07/hou-hsiao-hsien's-understatement/</loc>
-    <lastmod>2015-11-07T00:00:00-08:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://drewtran.com/2014/12/08/new-urbanism/</loc>
-    <lastmod>2014-12-08T00:00:00-08:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://drewtran.com/2014/11/17/reuniting-inhabited-space-in-prefabrication/</loc>
-    <lastmod>2014-11-17T00:00:00-08:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://drewtran.com/2014/01/23/tv-everywhere/</loc>
-    <lastmod>2014-01-23T00:00:00-08:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://drewtran.com/blog/</loc>
-    <lastmod>2018-01-01T14:02:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://drewtran.com/papers/</loc>
-    <lastmod>2018-01-01T14:02:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://drewtran.com/quotes/</loc>
-    <lastmod>2018-01-01T14:02:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://drewtran.com/bookshelf/</loc>
-    <lastmod>2018-01-01T14:02:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://drewtran.com/</loc>
-    <lastmod>2018-01-01T14:02:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+<url>
+<loc>https://drewtran.com/2015/11/07/a-space-observed/</loc>
+<lastmod>2015-11-07T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>https://drewtran.com/2014/01/23/tv-everywhere/</loc>
+<lastmod>2014-01-23T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>https://drewtran.com/blog/</loc>
+</url>
+<url>
+<loc>https://drewtran.com/papers/</loc>
+</url>
+<url>
+<loc>https://drewtran.com/bookshelf/</loc>
+</url>
+<url>
+<loc>https://drewtran.com/quotes/</loc>
+</url>
+<url>
+<loc>https://drewtran.com/</loc>
+</url>
+<url>
+<loc>https://drewtran.com/papers/aesthetics-of-sensualism.pdf</loc>
+<lastmod>2019-05-02T00:13:58-07:00</lastmod>
+</url>
+<url>
+<loc>https://drewtran.com/papers/korea-as-interpretation.pdf</loc>
+<lastmod>2019-08-10T12:32:09-07:00</lastmod>
+</url>
+<url>
+<loc>https://drewtran.com/papers/occupied-space.pdf</loc>
+<lastmod>2019-05-04T10:39:02-07:00</lastmod>
+</url>
+<url>
+<loc>https://drewtran.com/papers/projections.pdf</loc>
+<lastmod>2019-04-26T11:10:55-07:00</lastmod>
+</url>
+<url>
+<loc>https://drewtran.com/papers/resume.pdf</loc>
+<lastmod>2019-08-10T18:32:05-07:00</lastmod>
+</url>
 </urlset>

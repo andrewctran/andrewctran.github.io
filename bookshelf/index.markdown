@@ -6,40 +6,41 @@ in-nav: true
 
 * * *
 
-## Design
+## Literature
 
-### [S, M, L, XL](http://www.amazon.com/gp/product/1885254865/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1885254865&linkCode=as2&tag=andtra-20&linkId=FEDRES7G6ZDBNRIW)
+### [Lost Illusions](https://www.goodreads.com/book/show/25932.Lost_Illusions)
 
-### [No Interface](http://www.nointerface.com/book/)
+### [The Bridge on the Drina](https://www.goodreads.com/book/show/3140.The_Bridge_on_the_Drina)
 
-### [Delirious New York](http://www.amazon.com/gp/product/1885254008/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1885254008&linkCode=as2&tag=andtra-20&linkId=QWUQHAAMR2SXNS72)
+### [Independent People](https://www.goodreads.com/book/show/77287.Independent_People)
 
-### [White](http://www.amazon.com/White-Kenya-Hara/dp/3037781831/ref=pd_sim_b_1?ie=UTF8&refRID=187TDVRMCZ1V3H7MEW23)
+### [A Little History of the World](https://www.goodreads.com/book/show/61505.A_Little_History_of_the_World)
 
-### [Super Normal: Sensations of the Ordinary](https://www.amazon.com/Super-Normal-Sensations-Naoto-Fukasawa/dp/3037781068)
+### [Norwegian Wood](https://www.goodreads.com/book/show/11297.Norwegian_Wood)
 
-## Life & Writing
+### [If on a Winter's Night a Traveler](https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler)
 
-### [Your Republic is Calling You](http://www.amazon.com/Your-Republic-Calling-You-Young-ha/dp/0151015457/ref=sr_1_1?s=books&ie=UTF8&qid=1429227211&sr=1-1&keywords=your+republic+is+calling+you)
+### [Invisible Cities](https://www.goodreads.com/book/show/9809.Invisible_Cities)
+
+### [A Tale For the Time Being](https://www.goodreads.com/book/show/15811545-a-tale-for-the-time-being)
+
+### [Middlemarch](https://www.goodreads.com/book/show/271276.Middlemarch)
+
+## Poetry and Short Stories
 
 ### [Art and the Acceleration of Gravity](http://www.uhpress.hawaii.edu/p-9107-9780988692800.aspx)
 
-### [A Little History of the World](http://www.amazon.com/Little-History-World-E-Gombrich/dp/030014332X)
-
-### [Norwegian Wood](http://www.nytimes.com/2000/09/24/books/rubber-souls.html)
-
 ### [Tower of Babylon](http://gws.soonlabel.com/misc/Ted%20Chiang%20-%20Tower%20Of%20Babylon.pdf)
 
-### [Romance of the Three Kingdoms](http://www.amazon.com/Romance-Three-Kingdoms-Vol-1/dp/0804834679)
+### [The Dentists on the Avenida de la Revolución](https://www.goodreads.com/book/show/21139322-islands-and-continents)
 
-### [Invisible Cities](http://www.amazon.com/Invisible-Cities-Italo-Calvino/dp/0156453800)
+### [Les Fleurs du Mal](https://www.goodreads.com/book/show/203220.Les_Fleurs_du_Mal)
 
-### [A Tale For the Time Being](http://www.amazon.com/Tale-Time-Being-Novel/dp/0143124870)
+## Nonfiction
 
-### [The Book of Basketball: The NBA According to The Sports Guy](https://www.amazon.com/Book-Basketball-NBA-According-Sports/dp/0345520106)
+### [Kitchen Confidential](https://www.goodreads.com/book/show/33313.Kitchen_Confidential)
 
-### [Imagined Communities](https://www.amazon.com/Imagined-Communities-Reflections-Nationalism-Revised/dp/1844670864)
+### [Of Walking in Ice](https://www.goodreads.com/book/show/1307302.Of_Walking_in_Ice)
 
-### [Strangers in the Ethnic Homeland](https://www.amazon.com/Strangers-Ethnic-Homeland-Takeyuki-Tsuda/dp/0231128398)
+### [The Arcades Project](https://www.goodreads.com/book/show/52223.The_Arcades_Project)
 
-### [Of Walking in Ice](https://www.amazon.com/Werner-Herzog-Walking-November-December/dp/0979612101)
