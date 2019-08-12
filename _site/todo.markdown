@@ -1,4 +1,3 @@
-### Never stop iterating
-- redesign favicon (Audiotree-inspired?)
-- update typefaces
+### To-do
+- styleguide
 - 404 page

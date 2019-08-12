@@ -4,6 +4,8 @@ title: Quotes
 in-nav: true
 ---
 
+{% picture "Illustration by [Nemo Mao/Instagram](https://www.instagram.com/021_n/)" 2019/08/header.jpg class="imgbleed" %}
+
 These are the things I’ve heard and read that help me work, live, and think. The things that shape my work and remind me that everything is going to be ok. And, of course, the things that make me smile. 
 
 * * *
