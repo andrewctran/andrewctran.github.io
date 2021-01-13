@@ -1,0 +1,184 @@
+@font-face {
+    font-family: "TeX Gyre Heros";
+    src: url("../fonts/texgyreheros/texgyreheros-regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "TeX Gyre Heros";
+    font-weight: bold;
+    src: url("../fonts/texgyreheros/texgyreheros-bold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "TeX Gyre Heros";
+    font-style: italic;
+    src: url("../fonts/texgyreheros/texgyreheros-italic.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "TeX Gyre Heros";
+    font-weight: bold;
+    font-style: italic;
+    src: url("../fonts/texgyreheros/texgyreheros-bolditalic.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "TeX Gyre Heros Condensed";
+    src: url("../fonts/texgyreheros/texgyreheroscn-regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "TeX Gyre Heros Condensed";
+    font-weight: bold;
+    src: url("../fonts/texgyreheros/texgyreheroscn-bold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "TeX Gyre Heros Condensed";
+    font-style: italic;
+    src: url("../fonts/texgyreheros/texgyreheroscn-italic.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "TeX Gyre Heros Condensed";
+    font-weight: bold;
+    font-style: italic;
+    src: url("../fonts/texgyreheros/texgyreheroscn-bolditalic.otf") format("opentype");
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: "TeX Gyre Heros Condensed";
+    font-size: 1.3rem;
+    line-height: 1.6rem;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    background-color: #fff;
+	color: #000;
+}
+
+.container {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.copy {
+    max-width: 512px;
+    margin: auto;
+}
+
+a, a:link, a:visited {
+    color: rgba(0, 0, 0, 1);
+    text-decoration: none;
+    border-bottom: 0.05em solid rgba(0, 0, 0, 1)
+}
+
+a:hover {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:active {
+	opacity: 1;
+    border-bottom: none;
+    color: rgba(0, 0, 0, 1);
+}
+
+i,
+em {
+	font-style: italic;
+}
+
+b,
+strong {
+	font-weight: bold;
+}
+
+sub,
+sup {
+	position: relative;
+	vertical-align: baseline;
+}
+
+sub {
+	top: 0.3em;
+}
+
+sup {
+	top: -0.4em;
+}
+
+s {
+	text-decoration: line-through;
+}
+
+img {
+	border: 0;
+	padding: 0;
+}
+
+ul,
+ol {
+	margin: 0;
+	padding: 0 0 0 1em;
+}
+
+blockquote {
+	margin: 0;
+	padding: 0 0 0 2em;
+}
+
+hr {
+	background: rgba(127, 127, 127, 0.2);
+	border: 0;
+	height: 1px;
+	display: block;
+}
+
+h1 {
+	font-family: "TeX Gyre Heros Condensed";
+	font-style: normal;
+	font-weight: 400;
+	padding: 0;
+	margin: 0;
+	font-size: 1rem;
+	line-height: 1;
+	color: rgba(0, 0, 0, 0.85);
+	}
+
+h1 a {
+	color: rgba(0, 0, 0, 0.85);
+}
+
+h2 {
+	font-family: "TeX Gyre Heros Condensed";
+	font-style: normal;
+	font-weight: 400;
+	padding: 0;
+	margin: 0;
+	color: transparent;
+	font-size: 1rem;
+	line-height: 1.2;
+	}
+
+h2 a {
+	color: rgba(0, 0, 0, 0.85);
+}
+
+small {
+	display: inline-block;
+	font-size: 1rem;
+	line-height: 0.001;
+	font-family: "TeX Gyre Heros Condensed";
+	font-style: normal;
+	font-weight: 400;
+	color: transparent;
+}
+
+small a {
+	color: rgba(0, 0, 0, 1);
+	border-bottom-width: 0em;
+}
