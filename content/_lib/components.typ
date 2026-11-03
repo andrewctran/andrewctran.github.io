@@ -1,4 +1,4 @@
-// The site's components, after orgorgorgorgorg.org. Each emits the classes
+// The site's components. Each emits the classes
 // `style.css` draws in HTML, and an equivalent block in PDF and EPUB.
 
 #let BOX-BORDER = rgb("#aaaaaa")
