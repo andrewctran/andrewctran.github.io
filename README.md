@@ -2,7 +2,7 @@
 
 The personal site of Andrew Tran, published at [drewtran.com](https://drewtran.com).
 
-The site is written in [Typst](https://typst.app) and compiled by [Rheo](https://rheo.ohrg.org), a static site engine, with [Rookery](https://rookery.ohrg.org) loaded for posts. The layout follows [ohrg.org](https://www.ohrg.org) and the components follow [orgorgorgorgorg.org](https://orgorgorgorgorg.org). GitHub Actions builds the site and deploys it to GitHub Pages on every push to `master`.
+The site is written in [Typst](https://typst.app) and compiled by [Rheo](https://rheo.ohrg.org), a static site engine, with [Rookery](https://rookery.ohrg.org) loaded for posts. GitHub Actions builds the site and deploys it to GitHub Pages on every push to `master`.
 
 ## Quick start
 
