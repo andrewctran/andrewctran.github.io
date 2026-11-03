@@ -1,0 +1,247 @@
+/* ============================================
+   Tokens, after orgorgorgorgorg.org's org.css
+   ============================================ */
+
+:root {
+    --font: sans-serif;
+    --size: 14px;
+    --leading: 1.4em;
+
+    --ink: #000;
+    --paper: #fff;
+    --muted: #666;
+    --rule: #ccc;
+    --box-border: #aaa;
+    --box-side: lavender;
+    --box-notice: #f0f0f0;
+    --link: blue;
+
+    --line: 1px;
+    --box-pad-y: 8px;
+    --box-pad-x: 14px;
+    --heading-gap: 8px;
+    --notice-gap: 4px;
+    --paragraph-gap: 1em;
+    --hang: 12px;
+
+    --column: 960px;
+    --column-gap: 26px;
+    --side-gap: 14px;
+}
+
+/* ============================================
+   Base
+   ============================================ */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+/* One size for every piece of text: hierarchy comes from weight alone. */
+html,
+body,
+h1, h2, h3, h4, h5, h6,
+pre, code, kbd, samp, small, sub, sup {
+    font-family: var(--font);
+    font-size: var(--size);
+    line-height: var(--leading);
+}
+
+button,
+input,
+select,
+textarea {
+    font: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
+
+/* `body` is the page column: rheo emits the header, the page and the footer
+   as its direct children, with no wrapper to hang the width on. */
+body {
+    color: var(--ink);
+    background-color: var(--paper);
+    max-width: var(--column);
+    min-height: 100vh;
+    margin: 0 auto;
+    padding: 1em 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    color: var(--link);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    padding-top: var(--paragraph-gap);
+}
+
+p:first-of-type {
+    padding-top: 0;
+}
+
+pre {
+    white-space: pre-wrap;
+}
+
+/* ============================================
+   Header and footer
+   ============================================ */
+
+.site-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1em;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    border-bottom: var(--line) solid var(--rule);
+}
+
+.site-title a {
+    color: var(--ink);
+}
+
+.site-footer {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5em 1em;
+    margin-top: auto;
+    padding-top: 1em;
+}
+
+/* ============================================
+   Components
+   ============================================ */
+
+.page-columns {
+    display: grid;
+    grid-template-columns: minmax(0, 1.55fr) minmax(0, 1fr);
+    gap: var(--column-gap);
+    align-items: start;
+}
+
+.page-side {
+    display: flex;
+    flex-direction: column;
+    gap: var(--side-gap);
+}
+
+@media (max-width: 700px) {
+    .page-columns {
+        grid-template-columns: minmax(0, 1fr);
+    }
+
+    .page-side {
+        order: -1;
+    }
+}
+
+.notice,
+.side-box {
+    padding: var(--box-pad-y) var(--box-pad-x);
+    border: var(--line) solid var(--box-border);
+}
+
+.notice {
+    background-color: var(--box-notice);
+}
+
+.notice h4 {
+    margin-bottom: var(--notice-gap);
+}
+
+.notice p {
+    padding-top: 0;
+}
+
+.notice p + p {
+    margin-top: var(--notice-gap);
+}
+
+.side-box {
+    background-color: var(--box-side);
+}
+
+.side-box h4:not(:first-child) {
+    margin-top: var(--heading-gap);
+}
+
+.entity {
+    text-indent: calc(-1 * var(--hang));
+    margin-left: var(--hang);
+}
+
+/* ============================================
+   Style guide (/design.html)
+   ============================================ */
+
+.guide-section {
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    border-bottom: var(--line) solid var(--rule);
+}
+
+.guide-section:last-of-type {
+    margin-bottom: 0;
+}
+
+.guide-section h2 {
+    margin-bottom: var(--notice-gap);
+}
+
+.guide-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+}
+
+.guide-swatch {
+    display: inline-block;
+    width: 1.4em;
+    height: 1.4em;
+    border: var(--line) solid var(--box-border);
+}
+
+.guide-line {
+    display: inline-block;
+    width: 6em;
+}
+
+.guide-example {
+    margin: var(--notice-gap) 0;
+}
+
+.guide-code {
+    padding: var(--box-pad-y) var(--box-pad-x);
+    border: var(--line) dashed var(--rule);
+    color: var(--muted);
+}
+
+/* ============================================
+   Rookery, for when posts arrive. Its stylesheet loads after this one and
+   sets labels and tags as small as 0.57rem, so the single size is enforced.
+   ============================================ */
+
+body [data-rookery],
+body [data-rookery] * {
+    font-family: var(--font) !important;
+    font-size: var(--size) !important;
+    line-height: var(--leading) !important;
+}
