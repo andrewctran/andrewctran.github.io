@@ -28,9 +28,7 @@
 ]
 
 #section("Design")[
-  The tokens and components drewtran.com is built from, after the layout of
-  #link("https://www.ohrg.org")[ohrg.org] and the components of
-  #link("https://orgorgorgorgorg.org")[orgorgorgorgorg.org].
+  The tokens and components drewtran.com is built from.
 ]
 
 #section("Color")[
