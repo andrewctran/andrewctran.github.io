@@ -10,8 +10,8 @@
   ],
   [
     #side-box("About the author")[
-      I'm Andrew Tran, a Ph.D. candidate at the #link("https://www.unc.edu")[University of North Carolina] in Comparative Literature.
-      I do my most important research in the Machine Learning Humanities working group.
+      I'm Andrew Tran, a Ph.D. candidate in Comparative Literature at the #link("https://www.unc.edu")[University of North Carolina].
+      Most of my research originates, in some capacity, from directing the #link("https://machinelearninghumanities.org")[Machine Learning Humanities] collaborative.
       I'm currently CTO at #link("https://www.caseblink.com")[CaseBlink], a member of technical staff at #link("https://breadcrumb.ai")[Breadcrumb], and a participating member of the #link("https://orgorgorgorgorg.org")[Organization Research Group].
       Previously, I have been an Engineering Fellow at #link("https://www.kleinerperkins.com")[Kleiner Perkins], a software engineer at #link("https://nextdoor.com")[Nextdoor], #link("https://withotis.com")[Otis], and #link("https://public.com")[Public].
 
